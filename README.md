@@ -13,4 +13,3 @@ Then browse with the localhost:999 browser.
 P.S. There is also the repo for biometric systems applications. It is identical as a project but with a different JSON.
 P.P.S. Leave a greeting for those who will read this file after you :)
 
-Translated with DeepL.com (free version)
